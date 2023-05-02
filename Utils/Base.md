@@ -1,0 +1,1 @@
+使用MVI的架構，使用 Hilt 作為DI，非同步的部分使用Coroutine ,如有需要Call API 則使用Retrofit2， View使用 Compose，按照Clean Code的準則來寫

@@ -1,0 +1,2 @@
+麻煩請您當一個專業Android 工程師，我想使用最新的Firebase Login with Google Account 的功能，請先嘗試使用 slientSignIn 如果不行則改 GoogleSignInClient.signInIntent 的方式 請用registerForActivityResult 讓code好看點！  
+並請幫我使用MVI的架構，並且使用 Hilt 作為DI ，非同步的部分使用Coroutine , View使用 Compose，按照Clean Code的準則組出可以好好顯示登入狀態的，您覺得最好的Login頁面的程式碼，不需要Gradle 設置的部分，你好像太長都會當掉，請避免Network Error ，幫我拆開回答，謝謝您啊，
